@@ -18,8 +18,9 @@ This repo is created for educational purposes and to help beginners understand h
 
 ### 📸 Screenshots:
 
-![Horizontal Menu Bar](https://github.com/user-attachments/assets/20ce0eef-89f1-47b4-888a-dcfbb2d0b675)
 ![Vertical Menu Bar](https://github.com/user-attachments/assets/6042d74a-9da5-4cfc-a457-cd92f698d293)
+![Horizontal Menu Bar](https://github.com/user-attachments/assets/20ce0eef-89f1-47b4-888a-dcfbb2d0b675)
+
 
 
 ### 🚀 How to Use:
